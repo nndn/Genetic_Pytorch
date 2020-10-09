@@ -1,0 +1,10 @@
+1. iron defence = +40
+2. iron defence = +20 and agility buff
+3. energy beam, accuracy -0.1 instead of -0.2
+    slam agility -25 instead of -20
+    damage 2.5 > 2.2
+    flykick damage 4 > 3.5
+    iron defence = +25
+4. energy beam, damage 0.3 > 0.4
+    fly kick self damage lesser
+    damage 3.75
